@@ -1,8 +1,4 @@
-import sys
-print("start the code")
-print("continue the code")
-#sys.exit()
-print("exit the code")
-import pyperclip
-#pyperclip.copy("hi")
-print(pyperclip.paste())
+s1='guneesh'
+s2='singh'
+print(s1.title())
+
