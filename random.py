@@ -1,5 +1,24 @@
-d={}
-d["country"]="France"
-print(d.get("address","not found"))
-d1=dict.fromkeys(d)
-print(d1)
+import os
+path=os.getcwd()+"\\t.txt"
+file=open(path,'w')
+print(path)
+file.write("hello")
+file.close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
